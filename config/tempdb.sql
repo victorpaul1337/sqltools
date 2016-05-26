@@ -30,6 +30,7 @@ ALTER DATABASE [tempdb] ADD FILE (NAME = N'tempdev4', FILENAME = N'F:\sql_db\tem
 ALTER DATABASE [tempdb] ADD FILE (NAME = N'tempdev5', FILENAME = N'F:\sql_db\tempdev5.ndf' , SIZE = 25GB , FILEGROWTH = 0);
 ALTER DATABASE [tempdb] ADD FILE (NAME = N'tempdev6', FILENAME = N'F:\sql_db\tempdev6.ndf' , SIZE = 25GB , FILEGROWTH = 0);
 ALTER DATABASE [tempdb] ADD FILE (NAME = N'tempdev7', FILENAME = N'F:\sql_db\tempdev7.ndf' , SIZE = 25GB , FILEGROWTH = 0);
+ALTER DATABASE [tempdb] ADD FILE (NAME = N'tempdev8', FILENAME = N'F:\sql_db\tempdev8.ndf' , SIZE = 25GB , FILEGROWTH = 0);
 GO
 
 
